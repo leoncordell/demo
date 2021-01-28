@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /
-    destination: /var/demo
+  - source: ./demo-0.0.1-SNAPSHOT.jar
+    destination: /tmp
